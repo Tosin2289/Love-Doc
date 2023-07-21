@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905515768658",
+    "project_id": "authtutorial-1a05a",
+    "storage_bucket": "authtutorial-1a05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905515768658:android:d858ebacdda693b4f6b88b",
+        "android_client_info": {
+          "package_name": "com.example.love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905515768658-hfngfp95d1iluoa89n2m6qdmtnt0fsr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxXfdKkfdP5mzGfjD_jwHGMSl98gAwh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905515768658-hfngfp95d1iluoa89n2m6qdmtnt0fsr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
