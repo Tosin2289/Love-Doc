@@ -1,16 +1,7 @@
-# love
+# Love Doc
 
-A new Flutter project.
+A simple flutter applications that calculates love compatibility using an api has data source
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demos
+![Screenshot_1689899084](https://github.com/Tosin2289/Love-Doc/assets/66890167/cc85ed8c-973f-41cc-ac4c-d1710f96ebcf)
+![Screenshot_1689899122](https://github.com/Tosin2289/Love-Doc/assets/66890167/2b2c6071-02c0-445a-acae-2c98e36446b7)
